@@ -1,10 +1,3 @@
-/*
- * Andrew Hage
- * 11/7/2022
- * 4.23 Payroll application
- * Program that calculates an employees payroll statement
- */
-
 import java.util.Scanner;
 
 public class Payroll {
